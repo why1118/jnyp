@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/referrer/main",
+    "pages/phone/main",
+    "pages/classify/main",
+    "pages/autonym/main",
+    "pages/share/main",
+    "pages/index/main",
+
+    "pages/submission/main",
+    "pages/go2detail/main",
+    "pages/spike/main",
+    "pages/spikeDetail/main",
+
+    "pages/special/main",
+    "pages/conponlist/main",
+    "pages/logistics/main",
+    "pages/myorder/main",
+    "pages/myorder/successfulTrade/main",
+    "pages/myorder/cashDetails/main",
+    "pages/orderdetails/main",
+    "pages/seek/main",
+
+    "pages/sharedetail/main",
+    "pages/logs/main",
+    "pages/shoppingadress/main",
+    "pages/shoppingadress/redactAddress/main",
+    "pages/logistics/success/main",
+    "pages/myorder/settlement/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+   "tabBar":{
+    "selectedColor":"red",
+    "borderStyle":"black",
+    "list":[{
+       "pagePath": "pages/classify/main",
+       "text":"首页",
+       "iconPath": "/static/images/shouye.png",
+       "selectedIconPath": "/static/images/shouye.png"
+    },
+    {
+      "pagePath":"pages/logistics/main",
+      "text": "购物车",
+      "iconPath": "/static/images/shop.png",
+      "selectedIconPath":"/static/images/shop.png"
+    },
+    {
+      "pagePath":  "pages/logs/main",
+      "text": "我的",
+      "iconPath":"/static/images/fenlei.png",
+      "selectedIconPath": "/static/images/fenlei.png"
+    }]
+  }
+}

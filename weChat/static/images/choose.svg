@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>圆形-勾选@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.0178421%" y1="3.10211182%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#31D3F3" offset="0%"></stop>
+            <stop stop-color="#52E2BF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="圆形-勾选" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="15" cy="15" r="15"></circle>
+            <path d="M21.6615572,11.8679059 L14.1465603,19.668028 C13.9485287,19.8802261 13.6761549,20 13.3916339,20 C13.1071129,20 12.8347391,19.8802261 12.6367074,19.668028 L8.31275455,15.1773019 C7.89574849,14.7441601 7.89574848,14.0418984 8.31275454,13.6087566 C8.72976059,13.1756148 9.40586099,13.1756148 9.82286705,13.6087566 L13.4066909,17.3312541 L20.1716938,10.3306398 C20.4407726,10.0470166 20.8355834,9.93499333 21.2061153,10.037134 C21.5766473,10.1392746 21.8660245,10.4399008 21.9642964,10.8247878 C22.0625683,11.2096747 21.9546504,11.6197432 21.6815467,11.8991851 L21.6615572,11.8679059 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

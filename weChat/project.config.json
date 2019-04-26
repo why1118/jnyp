@@ -1,0 +1,165 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"libVersion": "2.6.4",
+	"compileType": "miniprogram",
+	"id": "wx3375420e2c184d34",
+	"appid": "wx223dc8a52abd6cc9",
+	"projectname": "up_wechat_app",
+	"miniprogramRoot": "dist/wx/",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": 0,
+					"name": "专题页面",
+					"pathName": "pages/special/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "购物地址",
+					"pathName": "pages/shoppingadress/redactAddress/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "身份认证",
+					"pathName": "pages/autonym/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "秒杀列表",
+					"pathName": "pages/spike/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "秒杀详情页",
+					"pathName": "pages/spikeDetail/main",
+					"query": "name=农家橘园土鸡蛋月子蛋笨鸡蛋30枚",
+					"scene": null
+				},
+				{
+					"id": 11,
+					"name": "商品详情页",
+					"pathName": "pages/go2detail/main",
+					"query": "id=11",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "提交订单",
+					"pathName": "pages/submission/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "物流详情",
+					"pathName": "pages/logistics/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 8,
+					"name": "收货地址",
+					"pathName": "pages/shoppingadress/main",
+					"query": "fromOrder=\"order\"",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "去付款",
+					"pathName": "pages/myorder/settlement/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "交易详情",
+					"pathName": "pages/myorder/cashDetails/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "优惠券列表",
+					"pathName": "pages/conponlist/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "分类页面",
+					"pathName": "pages/classify/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/logs/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "首页",
+					"pathName": "pages/index/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "搜索",
+					"pathName": "pages/seek/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "优惠券",
+					"pathName": "pages/conponlist/main",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
