@@ -23,6 +23,6 @@
 
 ### cnpm 下载 npm run dev 小程序微信开发者工具查看
 
----- 基于vue-cli 搭建
+----基于vue-cli 搭建
 
 ### 有什么不足之处欢迎[issue]
