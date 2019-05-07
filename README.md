@@ -1,6 +1,13 @@
 # 积纳优品
 ## 项目框架 mpvue 
-### 主要使用 vuex flyio拦截器 axios 小程序api  微信收付款
+### 主要使用 
+ * vuex 
+ * flyio拦截器 
+ * axios 
+ * 小程序api  
+ * 分享
+ * canvas
+ * 收藏
 ## 项目页面
 - 首页
 - 推荐人
